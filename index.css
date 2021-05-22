@@ -1,0 +1,10 @@
+#img-cont{
+  height: 30vh;
+  margin-top: 35vh;
+  width: 80vw;
+  margin-left: 10vw;
+  background-color: white;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQffOxD0R8umpgnaEb23YxerNcryJLfwUA09w&usqp=CAU");
+}
