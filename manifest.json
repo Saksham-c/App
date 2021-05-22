@@ -36,6 +36,6 @@
 
   "background_color": "white",
 
-  "display": "standalone"
+  "display": "fullscreen"
 
 }
